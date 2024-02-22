@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 
 public class Hyungjin {
     //1번
-    int g = 11111111;
+    int g = 543543;
     //2번
     String goHome ="집에보내주세요";
     //3번
