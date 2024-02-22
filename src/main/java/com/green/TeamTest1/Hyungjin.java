@@ -6,7 +6,7 @@ public class Hyungjin {
     //2번
 
     //3번
-
+        int woosung = 3;
     //4번
 
 }
